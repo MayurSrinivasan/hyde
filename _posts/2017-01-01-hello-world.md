@@ -12,5 +12,5 @@ I've never been much of a blogger, with [Twitter](https://twitter.com/xrinivasan
 
 ### This is what I look like
 
-![Yosemite](https://github.com/MayurSrinivasan/mayursrinivasan.github.io/blob/master/IMG_7508.JPG "Yosemite")
+![Yosemite]({{site.url}}/blob/master/IMG_7508.JPG)
 
