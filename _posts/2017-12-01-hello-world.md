@@ -10,7 +10,7 @@ I've never been much of a blogger, with [Twitter](https://twitter.com/xrinivasan
 
 > The journey of a thousand commits starts with a free site and a Hello World page - A nonce
 
-### This is what I look like
+### This is me in front of Yosemite Valley - Thanksgiving 2017
 
 ![Yosemite]({{site.url}}/IMG_7508.JPG)
 
