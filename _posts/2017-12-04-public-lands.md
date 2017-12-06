@@ -12,7 +12,9 @@ I never envisioned this to be (even a) semi-political blog, but if Constable Fro
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">This is the largest elimination of protected land in American history.<br>Take Action: <a href="https://t.co/biZPxo7PHh">https://t.co/biZPxo7PHh</a><a href="https://twitter.com/hashtag/BearsEars?src=hash&amp;ref_src=twsrc%5Etfw">#BearsEars</a> <a href="https://t.co/OqW9FHPk3Q">pic.twitter.com/OqW9FHPk3Q</a></p>&mdash; Patagonia (@patagonia) <a href="https://twitter.com/patagonia/status/937779717662314496?ref_src=twsrc%5Etfw">December 4, 2017</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Apart from the ecological, archaeological, and historical need for protection, this move is a complete disregard of the cultural impacts to Native American tribes, who, sadly, have long lost a seat at the negotiating table. Utah can't take 3 years to make a bill, and then cry 'over-reach!' on a subject that can quickly devolve into the molestation of all that is dear to us.
+Apart from the ecological, archaeological, and historical need for protection, this move is a complete disregard for the cultural impacts to Native American tribes, who, sadly, have long lost a seat at the negotiating table. Utah can't take 3 years to make a bill, and then cry 'over-reach!' on a subject that can quickly devolve into the molestation of all that is dear to us.
 
-I hope this act is overturned. At the very least, it brought many [conservacy groups] (http://www.patagonia.com/protect-public-lands.html) to the fore.
+I hope this act is overturned. At the very least, it brought many [conservacy groups](http://www.patagonia.com/protect-public-lands.html) to the fore.
+
+![publiclands]({{site.url}}/public/WeHeartOurPublicLands.jpg)
 
