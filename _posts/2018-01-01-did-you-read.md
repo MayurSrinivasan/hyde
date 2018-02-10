@@ -13,6 +13,6 @@ Given that the rate of bookmarking is always less than the rate of reading, I'm 
 
 Brass Tacks : Use a Instapaper API wrapper to access my bookmarks, build corpus, build index and recommendation engine, bask in Inbox Zero glory of my account, and hopefully cross the street carefully.
 
-{% include youtubePlayer.html id=6JLWQEuz2gA %}
+[![Portlandia](http://img.youtube.com/vi/6JLWQEuz2gA/0.jpg)](http://www.youtube.com/watch?v=6JLWQEuz2gA "Did You Read?")
 
 Will update post as I progress.
