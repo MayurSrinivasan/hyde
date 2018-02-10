@@ -15,4 +15,6 @@ Brass Tacks : Use a Instapaper API wrapper to access my bookmarks, build corpus,
 
 <iframe width="560" height="420" src="http://www.youtube.com/embed/6JLWQEuz2gA?color=white&theme=light"></iframe>
 
+<iframe width="420" height="315" src="http://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
+
 Will update post as I progress.
